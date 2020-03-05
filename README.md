@@ -4,3 +4,5 @@ git学习
 zuoxiugai
 zaicixiugai
 git diff 命令
+git diff +++++++++++++++++++
+git diff ---------------------------------
